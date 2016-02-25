@@ -1,0 +1,9 @@
+[core]
+	excludesfile = /Users/TonyGe/.gitignore
+[user]
+	name = 葛十景 shijing.ge
+	email = shijing.ge@weimob.com
+[push]
+	default = matching
+[alias]
+	st = status
